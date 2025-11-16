@@ -13,7 +13,7 @@ uv pip install -r requirements.txt
 
 # Download pretrained weight
 FlashSAM: [link](https://drive.google.com/file/d/1c5_CWTob79kYfIY8GMcQeZdLfTG7dd1b/view?usp=drive_link)
-Download and put them in FlashSAM/weights/
+Download and put it at FlashSAM/weights/
 
 # Quick start
 To infer in a script
