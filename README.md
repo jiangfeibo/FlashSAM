@@ -28,3 +28,5 @@ To infer in gradio for visualization
 ```
 gradio app.py
 ```
+# Train
+If you want to train FlashSAM from beginning, see `readme.md` in `train`.
