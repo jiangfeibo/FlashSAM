@@ -30,3 +30,6 @@ gradio app.py
 ```
 # Train
 If you want to train FlashSAM from beginning, see `readme.md` in `train`.
+
+# SC encoder and decoder
+see `readme.md` in `sc_model`. 
